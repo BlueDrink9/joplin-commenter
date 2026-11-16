@@ -1,0 +1,27 @@
+{
+	"manifest_version": 1,
+	"id": "bluedrink9.joplin-commenter",
+	"app_min_version": "3.7",
+	"version": "1.0.0",
+	"name": "Joplin commenter",
+	"description": "Add a button and keyboard shortcut for commenting out selected/lines with HTML comments",
+	"author": "bluedrink9",
+	"homepage_url": "https://github.com/BlueDrink9/joplin-commenter",
+	"repository_url": "https://github.com/BlueDrink9/joplin-commenter",
+    "platforms": [
+		"desktop",
+		"mobile"
+    ],
+    "keywords": [
+        "comment",
+        "html",
+        "editor",
+        "mobile"
+    ],
+    "categories": [
+        "editor"
+    ],
+    "screenshots": [],
+    "icons": {},
+    "promo_tile": {}
+}
